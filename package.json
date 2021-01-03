@@ -1,0 +1,23 @@
+{
+  "name": "ajhw14",
+  "version": "1.0.0",
+  "description": "TechBlog",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlfonsoJames/AJHW14.git"
+  },
+  "keywords": [
+    "Blog"
+  ],
+  "author": "AJ",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/AlfonsoJames/AJHW14/issues"
+  },
+  "homepage": "https://github.com/AlfonsoJames/AJHW14#readme"
+}
